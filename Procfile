@@ -1,1 +1,1 @@
-cd ExpressWsServer && node server.js
+worker: cd ExpressWsServer && node server.js
